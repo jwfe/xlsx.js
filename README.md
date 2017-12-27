@@ -1,2 +1,1 @@
-# xlsx.js
-excel封装
+# 轻量化的Node.js工具
