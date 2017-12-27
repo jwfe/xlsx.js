@@ -1,0 +1,10 @@
+{
+  "name": "xlsxjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "xlsx-style": "^0.8.13"
+  },
+  "devDependencies": {}
+}
